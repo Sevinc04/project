@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Document</title>
+</head>
+
+<body>
+    <h1>Student Bio</h1>
+    <hr>
+    <h2>Your Name</h2>
+    <img src="images/user profil.jpg" width="200">
+    <p>About info: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quo ab, eligendi dolorum, architecto veniam
+        praesentium ratione est explicabo nobis voluptatum perferendis doloremque eos quibusdam enim perspiciatis
+        consequatur, at sit necessitatibus.</p>
+    <h3><u>Contact info</u></h3>
+    <ul>
+        <li>Email:<a href="mailto:vlizadsevinc3@gmail.com">example@gmail.com</a></li>
+        <li>Github:<a href="https://Github.com">Github</a></li>
+        <li>Phone Number:<a href="tel:+994708798205">+994708798205</a></li>
+    </ul>
+</body>
+
+</html>
